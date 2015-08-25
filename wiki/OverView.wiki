@@ -1,0 +1,4 @@
+#labels Featured
+this simulator wanna recreate huge zombie outbreak in large city
+It uses boids models for zombies and humans
+It uses bitmap for implementation
